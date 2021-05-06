@@ -1,0 +1,12 @@
+C:\Users\pandrews\source\repos\DashBoardDI04Paul\EnlazarBLL\bin\Debug\netstandard2.0\EnlazarBLL.deps.json
+C:\Users\pandrews\source\repos\DashBoardDI04Paul\EnlazarBLL\bin\Debug\netstandard2.0\EnlazarBLL.dll
+C:\Users\pandrews\source\repos\DashBoardDI04Paul\EnlazarBLL\bin\Debug\netstandard2.0\EnlazarBLL.pdb
+C:\Users\pandrews\source\repos\DashBoardDI04Paul\EnlazarBLL\bin\Debug\netstandard2.0\LeerDAL.dll
+C:\Users\pandrews\source\repos\DashBoardDI04Paul\EnlazarBLL\bin\Debug\netstandard2.0\LeerDAL.pdb
+C:\Users\pandrews\source\repos\DashBoardDI04Paul\EnlazarBLL\obj\Debug\netstandard2.0\EnlazarBLL.csprojAssemblyReference.cache
+C:\Users\pandrews\source\repos\DashBoardDI04Paul\EnlazarBLL\obj\Debug\netstandard2.0\EnlazarBLL.AssemblyInfoInputs.cache
+C:\Users\pandrews\source\repos\DashBoardDI04Paul\EnlazarBLL\obj\Debug\netstandard2.0\EnlazarBLL.AssemblyInfo.cs
+C:\Users\pandrews\source\repos\DashBoardDI04Paul\EnlazarBLL\obj\Debug\netstandard2.0\EnlazarBLL.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\source\repos\DashBoardDI04Paul\EnlazarBLL\obj\Debug\netstandard2.0\EnlazarBLL.csproj.CopyComplete
+C:\Users\pandrews\source\repos\DashBoardDI04Paul\EnlazarBLL\obj\Debug\netstandard2.0\EnlazarBLL.dll
+C:\Users\pandrews\source\repos\DashBoardDI04Paul\EnlazarBLL\obj\Debug\netstandard2.0\EnlazarBLL.pdb

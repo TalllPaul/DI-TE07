@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wdhukkc0YJHC7Hge1q7/vAwI9f+1FXo27/mcvg18GNE08MEopMUl9vCbJLeyyUwWbNKtvMtDSF0ajFZT65J+WA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pandrews\\source\\repos\\DashBoardDI04Paul\\LeerDAL\\LeerDAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pandrews\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pandrews\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

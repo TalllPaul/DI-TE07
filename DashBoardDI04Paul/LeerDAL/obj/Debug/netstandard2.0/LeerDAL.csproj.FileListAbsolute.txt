@@ -1,0 +1,9 @@
+C:\Users\pandrews\source\repos\DashBoardDI04Paul\LeerDAL\bin\Debug\netstandard2.0\LeerDAL.deps.json
+C:\Users\pandrews\source\repos\DashBoardDI04Paul\LeerDAL\bin\Debug\netstandard2.0\LeerDAL.dll
+C:\Users\pandrews\source\repos\DashBoardDI04Paul\LeerDAL\bin\Debug\netstandard2.0\LeerDAL.pdb
+C:\Users\pandrews\source\repos\DashBoardDI04Paul\LeerDAL\obj\Debug\netstandard2.0\LeerDAL.csprojAssemblyReference.cache
+C:\Users\pandrews\source\repos\DashBoardDI04Paul\LeerDAL\obj\Debug\netstandard2.0\LeerDAL.AssemblyInfoInputs.cache
+C:\Users\pandrews\source\repos\DashBoardDI04Paul\LeerDAL\obj\Debug\netstandard2.0\LeerDAL.AssemblyInfo.cs
+C:\Users\pandrews\source\repos\DashBoardDI04Paul\LeerDAL\obj\Debug\netstandard2.0\LeerDAL.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\source\repos\DashBoardDI04Paul\LeerDAL\obj\Debug\netstandard2.0\LeerDAL.dll
+C:\Users\pandrews\source\repos\DashBoardDI04Paul\LeerDAL\obj\Debug\netstandard2.0\LeerDAL.pdb
