@@ -13,9 +13,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAL", "DAL", "{5CDCC29B-FCC
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Utilidades", "Utilidades", "{88A087C5-2367-4AFC-A85F-B4E1D577B294}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeerDAL", "LeerDAL\LeerDAL.csproj", "{753B4080-9B88-44F4-87DF-44910A83F763}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeerDAL", "LeerDAL\LeerDAL.csproj", "{753B4080-9B88-44F4-87DF-44910A83F763}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnlazarBLL", "EnlazarBLL\EnlazarBLL.csproj", "{53D62FCF-DDFD-45C9-9B0C-3EA76B2BABA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnlazarBLL", "EnlazarBLL\EnlazarBLL.csproj", "{53D62FCF-DDFD-45C9-9B0C-3EA76B2BABA7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InstaladorDashboard", "InstaladorDashboard\InstaladorDashboard.vdproj", "{48D0862F-74BE-4561-B842-05600CE6E264}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,8 +25,8 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F450C272-B77C-471D-BF5A-200B75C4890E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F450C272-B77C-471D-BF5A-200B75C4890E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F450C272-B77C-471D-BF5A-200B75C4890E}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{F450C272-B77C-471D-BF5A-200B75C4890E}.Debug|Any CPU.Build.0 = Release|Any CPU
 		{F450C272-B77C-471D-BF5A-200B75C4890E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F450C272-B77C-471D-BF5A-200B75C4890E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{753B4080-9B88-44F4-87DF-44910A83F763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -35,6 +37,8 @@ Global
 		{53D62FCF-DDFD-45C9-9B0C-3EA76B2BABA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53D62FCF-DDFD-45C9-9B0C-3EA76B2BABA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53D62FCF-DDFD-45C9-9B0C-3EA76B2BABA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48D0862F-74BE-4561-B842-05600CE6E264}.Debug|Any CPU.ActiveCfg = Debug
+		{48D0862F-74BE-4561-B842-05600CE6E264}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

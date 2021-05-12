@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pandrews\\source\\repos\\DashBoardDI04Paul\\LeerDAL\\LeerDAL.csproj": {}
+    "C:\\Users\\pandrews\\Documents\\ULHI 20-21\\Desarrollo de interfaces Anual\\Unidad 07 - Distribucion de aplicaciones\\GIT\\DI-TE07\\DashBoardDI04Paul\\LeerDAL\\LeerDAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pandrews\\source\\repos\\DashBoardDI04Paul\\LeerDAL\\LeerDAL.csproj": {
+    "C:\\Users\\pandrews\\Documents\\ULHI 20-21\\Desarrollo de interfaces Anual\\Unidad 07 - Distribucion de aplicaciones\\GIT\\DI-TE07\\DashBoardDI04Paul\\LeerDAL\\LeerDAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pandrews\\source\\repos\\DashBoardDI04Paul\\LeerDAL\\LeerDAL.csproj",
+        "projectUniqueName": "C:\\Users\\pandrews\\Documents\\ULHI 20-21\\Desarrollo de interfaces Anual\\Unidad 07 - Distribucion de aplicaciones\\GIT\\DI-TE07\\DashBoardDI04Paul\\LeerDAL\\LeerDAL.csproj",
         "projectName": "LeerDAL",
-        "projectPath": "C:\\Users\\pandrews\\source\\repos\\DashBoardDI04Paul\\LeerDAL\\LeerDAL.csproj",
+        "projectPath": "C:\\Users\\pandrews\\Documents\\ULHI 20-21\\Desarrollo de interfaces Anual\\Unidad 07 - Distribucion de aplicaciones\\GIT\\DI-TE07\\DashBoardDI04Paul\\LeerDAL\\LeerDAL.csproj",
         "packagesPath": "C:\\Users\\pandrews\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pandrews\\source\\repos\\DashBoardDI04Paul\\LeerDAL\\obj\\",
+        "outputPath": "C:\\Users\\pandrews\\Documents\\ULHI 20-21\\Desarrollo de interfaces Anual\\Unidad 07 - Distribucion de aplicaciones\\GIT\\DI-TE07\\DashBoardDI04Paul\\LeerDAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pandrews\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "System.Security.Permissions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
             }
           },
           "imports": [

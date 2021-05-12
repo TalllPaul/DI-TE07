@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "QD4QZD8UUZvdAYZGMDuZlJmFfHNJ9Z7UjLGptdIZN1IDNZ0qoxlo/jqCxQK4AlW6EYjKaqJ1L1a+qkIEf2qBSA==",
+  "dgSpecHash": "U/i+eZEjYXjVC2dAR+bb3B2/5jjZ7aQEwSSbwShI/KptfIfagDJGx0brWzBeHQ13RzYhFvz3WJ7yYOQhmsnNYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pandrews\\source\\repos\\DashBoardDI04Paul\\EnlazarBLL\\EnlazarBLL.csproj",
+  "projectFilePath": "C:\\Users\\pandrews\\Documents\\ULHI 20-21\\Desarrollo de interfaces Anual\\Unidad 07 - Distribucion de aplicaciones\\GIT\\DI-TE07\\DashBoardDI04Paul\\EnlazarBLL\\EnlazarBLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pandrews\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\pandrews\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\pandrews\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\pandrews\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\pandrews\\.nuget\\packages\\system.security.permissions\\5.0.0\\system.security.permissions.5.0.0.nupkg.sha512",
+    "C:\\Users\\pandrews\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

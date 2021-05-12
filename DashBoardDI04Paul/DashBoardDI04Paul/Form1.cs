@@ -12,6 +12,7 @@ using EnlazarBLL;
 
 namespace DashBoardDI04Paul
 {
+
     public partial class Form1 : Form
     {
         public ControlUsuario.ResumenVentas resumen = new ControlUsuario.ResumenVentas();
@@ -110,7 +111,8 @@ namespace DashBoardDI04Paul
         //Metodo que abre el manual de usuario cuando pinchas en el submenu de Ayuda, Manual de usuario.
         private void manualDeUsuarioToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Help.ShowHelp(this, "file://..\\..\\..\\Resources\\ManualdeUsuario.chm");
+            //Help.ShowHelp(this, "file://..\\..\\..\\Resources\\ManualdeUsuario.chm");
+            Help.ShowHelp(this, @"file://..\\Users\\pandrews\\Documents\\ULHI 20-21\\Desarrollo de interfaces Anual\\Unidad 07 - Distribucion de aplicaciones\\GIT\\DI-TE07\\DashBoardDI04Paul\\DashBoardDI04Paul\\ResourcesManualdeUsuario.chm");
         }
 
         //Metodo para mostrar la ventana emergente al pinchar en el boton Acerca de.

@@ -1,10 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+
 using System.Text;
 using LeerDAL;
 
 namespace EnlazarBLL
 {
+
     public class CsvEnlace
     {
         public LeerDatos controladorDAL;

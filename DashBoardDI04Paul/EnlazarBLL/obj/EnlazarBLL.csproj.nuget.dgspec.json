@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pandrews\\source\\repos\\DashBoardDI04Paul\\EnlazarBLL\\EnlazarBLL.csproj": {}
+    "C:\\Users\\pandrews\\Documents\\ULHI 20-21\\Desarrollo de interfaces Anual\\Unidad 07 - Distribucion de aplicaciones\\GIT\\DI-TE07\\DashBoardDI04Paul\\EnlazarBLL\\EnlazarBLL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pandrews\\source\\repos\\DashBoardDI04Paul\\EnlazarBLL\\EnlazarBLL.csproj": {
+    "C:\\Users\\pandrews\\Documents\\ULHI 20-21\\Desarrollo de interfaces Anual\\Unidad 07 - Distribucion de aplicaciones\\GIT\\DI-TE07\\DashBoardDI04Paul\\EnlazarBLL\\EnlazarBLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pandrews\\source\\repos\\DashBoardDI04Paul\\EnlazarBLL\\EnlazarBLL.csproj",
+        "projectUniqueName": "C:\\Users\\pandrews\\Documents\\ULHI 20-21\\Desarrollo de interfaces Anual\\Unidad 07 - Distribucion de aplicaciones\\GIT\\DI-TE07\\DashBoardDI04Paul\\EnlazarBLL\\EnlazarBLL.csproj",
         "projectName": "EnlazarBLL",
-        "projectPath": "C:\\Users\\pandrews\\source\\repos\\DashBoardDI04Paul\\EnlazarBLL\\EnlazarBLL.csproj",
+        "projectPath": "C:\\Users\\pandrews\\Documents\\ULHI 20-21\\Desarrollo de interfaces Anual\\Unidad 07 - Distribucion de aplicaciones\\GIT\\DI-TE07\\DashBoardDI04Paul\\EnlazarBLL\\EnlazarBLL.csproj",
         "packagesPath": "C:\\Users\\pandrews\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pandrews\\source\\repos\\DashBoardDI04Paul\\EnlazarBLL\\obj\\",
+        "outputPath": "C:\\Users\\pandrews\\Documents\\ULHI 20-21\\Desarrollo de interfaces Anual\\Unidad 07 - Distribucion de aplicaciones\\GIT\\DI-TE07\\DashBoardDI04Paul\\EnlazarBLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pandrews\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\pandrews\\source\\repos\\DashBoardDI04Paul\\LeerDAL\\LeerDAL.csproj": {
-                "projectPath": "C:\\Users\\pandrews\\source\\repos\\DashBoardDI04Paul\\LeerDAL\\LeerDAL.csproj"
+              "C:\\Users\\pandrews\\Documents\\ULHI 20-21\\Desarrollo de interfaces Anual\\Unidad 07 - Distribucion de aplicaciones\\GIT\\DI-TE07\\DashBoardDI04Paul\\LeerDAL\\LeerDAL.csproj": {
+                "projectPath": "C:\\Users\\pandrews\\Documents\\ULHI 20-21\\Desarrollo de interfaces Anual\\Unidad 07 - Distribucion de aplicaciones\\GIT\\DI-TE07\\DashBoardDI04Paul\\LeerDAL\\LeerDAL.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\pandrews\\source\\repos\\DashBoardDI04Paul\\LeerDAL\\LeerDAL.csproj": {
+    "C:\\Users\\pandrews\\Documents\\ULHI 20-21\\Desarrollo de interfaces Anual\\Unidad 07 - Distribucion de aplicaciones\\GIT\\DI-TE07\\DashBoardDI04Paul\\LeerDAL\\LeerDAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pandrews\\source\\repos\\DashBoardDI04Paul\\LeerDAL\\LeerDAL.csproj",
+        "projectUniqueName": "C:\\Users\\pandrews\\Documents\\ULHI 20-21\\Desarrollo de interfaces Anual\\Unidad 07 - Distribucion de aplicaciones\\GIT\\DI-TE07\\DashBoardDI04Paul\\LeerDAL\\LeerDAL.csproj",
         "projectName": "LeerDAL",
-        "projectPath": "C:\\Users\\pandrews\\source\\repos\\DashBoardDI04Paul\\LeerDAL\\LeerDAL.csproj",
+        "projectPath": "C:\\Users\\pandrews\\Documents\\ULHI 20-21\\Desarrollo de interfaces Anual\\Unidad 07 - Distribucion de aplicaciones\\GIT\\DI-TE07\\DashBoardDI04Paul\\LeerDAL\\LeerDAL.csproj",
         "packagesPath": "C:\\Users\\pandrews\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pandrews\\source\\repos\\DashBoardDI04Paul\\LeerDAL\\obj\\",
+        "outputPath": "C:\\Users\\pandrews\\Documents\\ULHI 20-21\\Desarrollo de interfaces Anual\\Unidad 07 - Distribucion de aplicaciones\\GIT\\DI-TE07\\DashBoardDI04Paul\\LeerDAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pandrews\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -106,6 +106,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "System.Security.Permissions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
             }
           },
           "imports": [

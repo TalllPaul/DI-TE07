@@ -1,0 +1,12 @@
+C:\Users\pandrews\Documents\ULHI 20-21\Desarrollo de interfaces Anual\Unidad 07 - Distribucion de aplicaciones\GIT\DI-TE07\DashBoardDI04Paul\EnlazarBLL\bin\Release\netstandard2.0\EnlazarBLL.deps.json
+C:\Users\pandrews\Documents\ULHI 20-21\Desarrollo de interfaces Anual\Unidad 07 - Distribucion de aplicaciones\GIT\DI-TE07\DashBoardDI04Paul\EnlazarBLL\bin\Release\netstandard2.0\EnlazarBLL.dll
+C:\Users\pandrews\Documents\ULHI 20-21\Desarrollo de interfaces Anual\Unidad 07 - Distribucion de aplicaciones\GIT\DI-TE07\DashBoardDI04Paul\EnlazarBLL\bin\Release\netstandard2.0\EnlazarBLL.pdb
+C:\Users\pandrews\Documents\ULHI 20-21\Desarrollo de interfaces Anual\Unidad 07 - Distribucion de aplicaciones\GIT\DI-TE07\DashBoardDI04Paul\EnlazarBLL\bin\Release\netstandard2.0\LeerDAL.dll
+C:\Users\pandrews\Documents\ULHI 20-21\Desarrollo de interfaces Anual\Unidad 07 - Distribucion de aplicaciones\GIT\DI-TE07\DashBoardDI04Paul\EnlazarBLL\bin\Release\netstandard2.0\LeerDAL.pdb
+C:\Users\pandrews\Documents\ULHI 20-21\Desarrollo de interfaces Anual\Unidad 07 - Distribucion de aplicaciones\GIT\DI-TE07\DashBoardDI04Paul\EnlazarBLL\obj\Release\netstandard2.0\EnlazarBLL.csprojAssemblyReference.cache
+C:\Users\pandrews\Documents\ULHI 20-21\Desarrollo de interfaces Anual\Unidad 07 - Distribucion de aplicaciones\GIT\DI-TE07\DashBoardDI04Paul\EnlazarBLL\obj\Release\netstandard2.0\EnlazarBLL.AssemblyInfoInputs.cache
+C:\Users\pandrews\Documents\ULHI 20-21\Desarrollo de interfaces Anual\Unidad 07 - Distribucion de aplicaciones\GIT\DI-TE07\DashBoardDI04Paul\EnlazarBLL\obj\Release\netstandard2.0\EnlazarBLL.AssemblyInfo.cs
+C:\Users\pandrews\Documents\ULHI 20-21\Desarrollo de interfaces Anual\Unidad 07 - Distribucion de aplicaciones\GIT\DI-TE07\DashBoardDI04Paul\EnlazarBLL\obj\Release\netstandard2.0\EnlazarBLL.csproj.CoreCompileInputs.cache
+C:\Users\pandrews\Documents\ULHI 20-21\Desarrollo de interfaces Anual\Unidad 07 - Distribucion de aplicaciones\GIT\DI-TE07\DashBoardDI04Paul\EnlazarBLL\obj\Release\netstandard2.0\EnlazarBLL.csproj.CopyComplete
+C:\Users\pandrews\Documents\ULHI 20-21\Desarrollo de interfaces Anual\Unidad 07 - Distribucion de aplicaciones\GIT\DI-TE07\DashBoardDI04Paul\EnlazarBLL\obj\Release\netstandard2.0\EnlazarBLL.dll
+C:\Users\pandrews\Documents\ULHI 20-21\Desarrollo de interfaces Anual\Unidad 07 - Distribucion de aplicaciones\GIT\DI-TE07\DashBoardDI04Paul\EnlazarBLL\obj\Release\netstandard2.0\EnlazarBLL.pdb

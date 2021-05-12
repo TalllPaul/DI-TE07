@@ -4,13 +4,16 @@ using System.Text;
 using System.IO;
 using System.Linq;
 
+
 namespace LeerDAL
 {
+
     public class LeerDatos
     {
         //Constantes de las rutas de los ficheros .csv
-        const string ruta = "..\\..\\..\\BD\\BD\\1_datos_comerciales.csv";
-        const string ruta2 = "..\\..\\..\\BD\\BD\\2_facturacion_comercial.csv";
+        const string ruta = "C:\\Users\\pandrews\\Documents\\ULHI 20-21\\Desarrollo de interfaces Anual\\Unidad 07 - Distribucion de aplicaciones\\GIT\\DI-TE07\\DashBoardDI04Paul\\BD\\BD\\1_datos_comerciales.csv";
+        const string ruta2 = "C:\\Users\\pandrews\\Documents\\ULHI 20-21\\Desarrollo de interfaces Anual\\Unidad 07 - Distribucion de aplicaciones\\GIT\\DI-TE07\\DashBoardDI04Paul\\BD\\BD\\2_facturacion_comercial.csv";
+
         public LeerDatos()
         {
         }

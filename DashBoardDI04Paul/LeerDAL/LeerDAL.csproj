@@ -5,4 +5,8 @@
     <OutputType>Library</OutputType>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="System.Security.Permissions" Version="5.0.0" />
+  </ItemGroup>
+
 </Project>
