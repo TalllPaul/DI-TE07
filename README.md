@@ -15,6 +15,7 @@
 	<li><a href="#REFERENCIAS">Referencias</a></li>
 </ol>
 
+<!-- ABOUT -->
 ## ABOUT :memo:
 
 <p>Esta aplicacion es un Dashboard que representa de manera visual los datos de ingresos de las empresas. </p>
