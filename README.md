@@ -1,11 +1,12 @@
 # DI-TE07
 #### Evaluacion DI07
 <!-- Logo y nombre -->
-<center>
+<p align="center">
 # Dashboard
 
 <img src="https://i.ibb.co/R04SKkv/Dash-Company-Logo.png" alt="DashBoard" border="0" />
 </center>
+</p>
 <!-- Indice -->
 ## Indice 
 <ol>
