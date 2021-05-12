@@ -1,37 +1,46 @@
 # DI-TE07
 #### Evaluacion DI07
-<!-- Logo y nombre -->
-<p align="center">
-## Dashboard
 
+<!-- Logo y nombre -->
+# Dashboard
+<p align="center">
 <img src="https://i.ibb.co/R04SKkv/Dash-Company-Logo.png" alt="DashBoard" border="0" />
-</center>
 </p>
+
 <!-- Indice -->
 ### Indice 
+---
+
 <ol>
-	<li><a href="#ABOUT">About</a></li>
+	<li><a href="#about-:memo:">About</a></li>
 	<li><a href="#CONTACTO">Contacto</a></li>
 	<li><a href="#REFERENCIAS">Referencias</a></li>
 </ol>
 
 <!-- ABOUT -->
-## ABOUT :memo:
-
+## About :memo:
+---
 <p>Esta aplicacion es un Dashboard que representa de manera visual los datos de ingresos de las empresas. </p>
 
-#### Comerciales
+### Comerciales
 
 <p>Se puede ver a traves de la aplicacion informacion basica de los comerciales que trabajen para la empresa</p>
 
-#### Facturacion Anual
+### Facturacion Anual
 
 <p>Se puede comprobar la facturacion mensual de cada empresa mediante un grafico de barras muy visual</p>
 
-#### Resumen Mensual
+### Resumen Mensual
 
 <p>Se puede comprobar el resumen mensual de ingresos de cada empresa por comercial.</p>
 
+### Instalacion
+
+<p>Para realizar la instalacion hay que descargar la carpeta DashBoardDI04, cuando abres el proyecto en Visual Studio o otro IDE para C# hay un Setup Project llamado Instalador, haz click derecho > complilar y despues de terminar la compilacion, click derecho > Instalar y seguir el wizard.</p>
+
+### Licencia 
+
+<p>Este software tiene una licencia propietaria. No se puede redistribuir, copiar o realizar ingeniero inverso el software. Tienes el derecho de instalar y ejecutar este software en un único equipo y podría ser usado por una única persona. Si el usuario no cumple los términos de la licencia, la licencia sería nulo y el software estaria bloqueado. <a href="https://es.wikipedia.org/wiki/Software_propietario">Mas Informacion</a><p>
 
 ## CONTACTO :telephone:
 
