@@ -2,17 +2,17 @@
 #### Evaluacion DI07
 <!-- Logo y nombre -->
 <p align="center">
-# Dashboard
+## Dashboard
 
 <img src="https://i.ibb.co/R04SKkv/Dash-Company-Logo.png" alt="DashBoard" border="0" />
 </center>
 </p>
 <!-- Indice -->
-## Indice 
+### Indice 
 <ol>
-	<li>About</li>
-	<li>Contacto</li>
-	<li>Referencias</li>
+	<li><a href="#ABOUT">About</a></li>
+	<li><a href="#CONTACTO">Contacto</a></li>
+	<li><a href="#REFERENCIAS">Referencias</a></li>
 </ol>
 
 ## ABOUT :memo:
@@ -30,7 +30,6 @@
 #### Resumen Mensual
 
 <p>Se puede comprobar el resumen mensual de ingresos de cada empresa por comercial.</p>
-
 
 
 ## CONTACTO :telephone:
