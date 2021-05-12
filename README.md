@@ -10,15 +10,15 @@
 <!-- Indice -->
 ### Indice 
 ---
+- [About](#about)
+- [Contacto](#contacto)
+- [Referencias](#referencias)
 
-<ol>
-	<li><a href="#about-:memo:">About</a></li>
-	<li><a href="#CONTACTO">Contacto</a></li>
-	<li><a href="#REFERENCIAS">Referencias</a></li>
-</ol>
+
 
 <!-- ABOUT -->
-## About :memo:
+<a href='#about' id='about' class='anchor' aria-hidden='true'></a>
+## About 📝
 ---
 <p>Esta aplicacion es un Dashboard que representa de manera visual los datos de ingresos de las empresas. </p>
 
@@ -42,7 +42,11 @@
 
 <p>Este software tiene una licencia propietaria. No se puede redistribuir, copiar o realizar ingeniero inverso el software. Tienes el derecho de instalar y ejecutar este software en un único equipo y podría ser usado por una única persona. Si el usuario no cumple los términos de la licencia, la licencia sería nulo y el software estaria bloqueado. <a href="https://es.wikipedia.org/wiki/Software_propietario">Mas Informacion</a><p>
 
-## CONTACTO :telephone:
+
+<a href='#contacto' id='contacto' class='anchor' aria-hidden='true'></a>
+<!--Contacto -->
+## Contacto ☎️
+---
 
 <p>Soy Paul, un desarrollador de software cada vez mas cogiendo experiencia con los proyectos como este. He trabajado con muchos lenguajes desde C++ a PHP.</p>
 
@@ -51,8 +55,11 @@
 <p><a href="mailto:p.andrews@outlook.es">Email</a></p>
 <p></p>
 
-## REFERENCIAS :floppy_disk:
+<a href='#referencias' id='referencias' class='anchor' aria-hidden='true'></a>
 
+<!-- referencias -->
+## REFERENCIAS :floppy_disk:
+--- 
 <p>Este programa esta codificado en C# y requiere el <a href="https://dotnet.microsoft.com/download/dotnet-framework/net472"> .Net Framework 4.7.2</a> o mas</p>
 
 <p><a href="https://www.wearemarketing.com/es/blog/que-es-un-dashboard-de-negocios-y-cuales-sus-beneficios.html">¿Que es un Dashboard?</a></p>
